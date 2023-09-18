@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ZanAli261
-- 👀 I’m interested in automation and data visualization
-- 🌱 I’m currently learning airflow and spark
+- 👀 I’m interested in data, analytics and business intelligence
 
 
 
