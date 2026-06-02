@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ZanAli261
-- 👀 I’m interested in data, analytics and business intelligence
 
 
 
